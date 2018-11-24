@@ -3,4 +3,4 @@
 1. Click "Clone or Download" <br>
 2. Download the zip<br>
 3. Extract it<br>
-Continue <a href="lencode.tumblr.com">Here</a>
+Continue <a href="https://lencode.tumblr.com/">Here</a>
